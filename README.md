@@ -1,5 +1,5 @@
 luis.maya.io
-## Luis Maya's Protfolio
+## Luis Maya's Portfolio
 
 This is Luis Maya's portfolio for his work in Introduction to Programming, Spring semester of 2017.
 
